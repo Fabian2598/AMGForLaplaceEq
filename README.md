@@ -1,4 +1,4 @@
-# AMG for solving Laplace's equation.
+# AMG for solving Laplace's equation
 Python implementations of AMG based on standard coarsening and direct interpolation, as well as on smoothed aggregation. [AMGLaplace](AMGLaplace.ipynb) is implemented with standard coarsening, while [AMGAggregation](AMGAggregation.ipynb) uses smoothed aggregation. The model problem solved with the codes is the two-dimensional Laplace's equation on a square 
 
 $$\nabla^2 u(x,y) = 0,$$ 
